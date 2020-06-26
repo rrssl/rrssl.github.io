@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Robin Roussel</title>
+    <link>https://rrssl.github.io/publication-type/2/</link>
+      <atom:link href="https://rrssl.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rrssl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://rrssl.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Designing chain reaction contraptions from causal graphs</title>
+      <link>https://rrssl.github.io/publication/roussel-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rrssl.github.io/publication/roussel-2019/</guid>
+      <description>&lt;p&gt;This publication also appeared in the French newspaper 
+&lt;a href=&#34;https://www.lemonde.fr/sciences/article/2019/08/19/l-art-de-fabriquer-des-machines-infernales_5500719_1650684.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Le Monde&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploratory design of mechanical devices with motion constraints</title>
+      <link>https://rrssl.github.io/publication/roussel-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://rrssl.github.io/publication/roussel-2018/</guid>
+      <description>&lt;p&gt;This publication is an extented version of 
+&lt;a href=&#34;https://rrssl.github.io/publication/roussel-2017/&#34;&gt;Spirou: constrained exploration for mechanical motion design&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
